@@ -1,6 +1,6 @@
 # Hi, I'm Avet 👋 — AI Engineer & AI System Architect
 
-> I design and ship **production-grade agentic AI systems** — multi-agent workflows on **LangGraph / LangChain**, RAG pipelines, and the LLMOps around them (eval, tracing, monitoring).
+> I design and ship **production-grade harness, agentic AI systems** — multi-agent workflows on **LangGraph / LangChain**, RAG pipelines, and the LLMOps around them (eval, tracing, monitoring).
 
 🧠 AI Engineer focused on **LLM agents, NLP, and RAG** · 🐍 Python at the core · ⚙️ from prototype to production
 
